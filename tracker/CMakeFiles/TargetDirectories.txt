@@ -1,0 +1,3 @@
+/home/rafael/ptr/Ciclope/tracker/CMakeFiles/edit_cache.dir
+/home/rafael/ptr/Ciclope/tracker/CMakeFiles/tracker.dir
+/home/rafael/ptr/Ciclope/tracker/CMakeFiles/rebuild_cache.dir
